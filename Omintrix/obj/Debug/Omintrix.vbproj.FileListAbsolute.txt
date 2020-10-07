@@ -1,0 +1,12 @@
+C:\Users\chumo\source\repos\Omintrix\Omintrix\bin\Debug\Omintrix.exe.config
+C:\Users\chumo\source\repos\Omintrix\Omintrix\bin\Debug\Omintrix.exe
+C:\Users\chumo\source\repos\Omintrix\Omintrix\bin\Debug\Omintrix.pdb
+C:\Users\chumo\source\repos\Omintrix\Omintrix\bin\Debug\Omintrix.xml
+C:\Users\chumo\source\repos\Omintrix\Omintrix\obj\Debug\Omintrix.vbprojAssemblyReference.cache
+C:\Users\chumo\source\repos\Omintrix\Omintrix\obj\Debug\Omintrix.Form1.resources
+C:\Users\chumo\source\repos\Omintrix\Omintrix\obj\Debug\Omintrix.Resources.resources
+C:\Users\chumo\source\repos\Omintrix\Omintrix\obj\Debug\Omintrix.vbproj.GenerateResource.cache
+C:\Users\chumo\source\repos\Omintrix\Omintrix\obj\Debug\Omintrix.vbproj.CoreCompileInputs.cache
+C:\Users\chumo\source\repos\Omintrix\Omintrix\obj\Debug\Omintrix.exe
+C:\Users\chumo\source\repos\Omintrix\Omintrix\obj\Debug\Omintrix.xml
+C:\Users\chumo\source\repos\Omintrix\Omintrix\obj\Debug\Omintrix.pdb
